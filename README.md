@@ -80,6 +80,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yassersalem74/yassersalem74/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/yassersalem74/yassersalem74/output/snake.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2F4k-programming&psig=AOvVaw0qCWsZoQE2G355cCjLmA2M&ust=1736248396087000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICTmb_74IoDFQAAAAAdAAAAABAE)" alt="Snake animation" />
 
 ###
