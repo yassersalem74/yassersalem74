@@ -1,15 +1,16 @@
-<h2 align="center">Hi 👋! My name is yasser and I'm a Front-End developer from Egypt</h2>
+<h2 align="center">Turning coffee into code, one line at a time – yasser salem</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yassersalem74&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassersalem74&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=yassersalem74&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" height="140" src="https://i.pinimg.com/736x/1b/1f/c1/1b1fc1dee23a830fb22cb00ce67894f2.jpg"  />
+<img align="right" height="151" src="https://i.pinimg.com/736x/2c/52/18/2c5218d63053e50bf003826a6a186b0c.jpg"  />
 
 ###
 
@@ -75,6 +76,6 @@
 
 ###
 
-
+<img src="https://raw.githubusercontent.com/yassersalem74/yassersalem74/output/snake.svg" alt="Snake animation" />
 
 ###
