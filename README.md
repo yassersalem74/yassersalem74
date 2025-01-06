@@ -78,6 +78,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yassersalem74/yassersalem74/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/yassersalem74/yassersalem74/output/snake.svg](https://raw.githubusercontent.com/yassersalem74/yassersalem74/output/snake.svg)" alt="Snake animation" />
 
 ###
